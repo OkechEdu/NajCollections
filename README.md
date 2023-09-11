@@ -1,3 +1,3 @@
-## E-Commerce App
+## E-Commerce App for www.najcollections.co.ke 
 
-- [Project Link](https://bit.ly/fs-ecommerce)
+
